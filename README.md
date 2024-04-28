@@ -66,3 +66,8 @@ medias_ES.at[ano,"ENEM"]=len(dados_ES.loc[dados_ES["TP_SEXO"]=="F"])/len(dados_E
 ```
 
 ## Resultados 
+### Brasil
+![](https://github.com/thaispedruzzi/mulheres-eletrica/blob/main/grafico_BR.png)
+
+### Espírito Santo
+![](https://github.com/thaispedruzzi/mulheres-eletrica/blob/main/grafico_ES.png)
