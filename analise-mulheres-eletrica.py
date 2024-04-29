@@ -119,7 +119,7 @@ def plot_grafico(df):
 
     # Adicionar legenda com os textos personalizados
     handles, _ = ax.get_legend_handles_labels()
-    ax.legend(handles=handles, labels=['Mulheres no ENEM', 'Homens na Eng. Elétrica', 'Mulheres na Elétrica'], bbox_to_anchor=(0.5, 1.15),loc='upper center',ncol = 3)
+    ax.legend(handles=handles, labels=['Mulheres no ENEM', 'Mulheres na Eng. Elétrica','Homens na Eng. Elétrica'], bbox_to_anchor=(0.5, 1.15),loc='upper center',ncol = 3)
 
     # Mostrar o gráfico
     #plt.show()
